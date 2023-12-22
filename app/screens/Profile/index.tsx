@@ -84,15 +84,15 @@ function Profile({
 							)}
 							{renderSection(
 								profile.twitter_username,
-								"Twiiter",
+								"Twitter",
 							)}
 							{renderSection(
 								profile.followers.toString(),
-								"Fowllowers",
+								"Followers",
 							)}
 							{renderSection(
 								profile.following.toString(),
-								"Fowllowing",
+								"Following",
 							)}
 
 							{

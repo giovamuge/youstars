@@ -155,7 +155,7 @@ exports[`renders Home page 1`] = `
             }
           }
         >
-          Onwer
+          Owner
         </Text>
         <View
           style={

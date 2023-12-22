@@ -49,12 +49,12 @@ function Home({ navigation }: any): JSX.Element {
 				<Text
 					style={[typographyStyle.title, styles.textTitle]}
 				>
-					Wich stars would you know?
+					Which stars would you like to know?
 				</Text>
 
 				<View style={styles.containerInput}>
 					<Text style={typographyStyle.text2Bold}>
-						Onwer
+						Owner
 					</Text>
 
 					<TextField
