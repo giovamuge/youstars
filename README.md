@@ -1,6 +1,8 @@
 # Youstars
 You know the stars about repository of Github. This is a simple concept app built with react native using Github API.
 
+![Alt Text](/screenshots/simulation.gif)
+
 ## Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
